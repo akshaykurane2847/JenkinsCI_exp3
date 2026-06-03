@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21.0.11\bin"/>
-    <property name="sun.java.command" value="C:\Users\Admin\AppData\Local\Temp\surefire9848212694842732659\surefirebooter-20260602203925631_3.jar C:\Users\Admin\AppData\Local\Temp\surefire9848212694842732659 2026-06-02T20-39-25_548-jvmRun1 surefire-20260602203925631_1tmp surefire_0-20260602203925631_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Admin\AppData\Local\Temp\surefire15478995427762291632\surefirebooter-20260602212824836_3.jar C:\Users\Admin\AppData\Local\Temp\surefire15478995427762291632 2026-06-02T21-28-24_723-jvmRun1 surefire-20260602212824836_1tmp surefire_0-20260602212824836_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Admin\Exp3\JenkinsDemo\target\test-classes;C:\Users\Admin\Exp3\JenkinsDemo\target\classes;C:\Users\Admin\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Admin\AppData\Local\Temp\surefire9848212694842732659\surefirebooter-20260602203925631_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Admin\AppData\Local\Temp\surefire15478995427762291632\surefirebooter-20260602212824836_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.11+9-LTS-211"/>
@@ -58,5 +58,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="testApp" classname="com.akshay.AppTest" time="0.002"/>
+  <testcase name="testApp" classname="com.akshay.AppTest" time="0.0"/>
 </testsuite>
